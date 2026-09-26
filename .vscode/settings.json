@@ -1,0 +1,6 @@
+{
+    "java.autobuild.enabled": false,
+    "java.server.launchMode": "LightWeight",
+    "gradle.autoDetect": "off",
+    "gradle.nestedProjects": false
+}
